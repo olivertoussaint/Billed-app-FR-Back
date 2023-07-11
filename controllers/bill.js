@@ -1,3 +1,6 @@
+/*
+eslint linebreak-style: ["error", "windows"]
+*/
 const { Bill } = require('../models');
 
 const getFileURL = (filePath) => `http://localhost:5678/${filePath}`;

@@ -1,3 +1,6 @@
+/*
+eslint linebreak-style: ["error", "windows"]
+*/
 const jwt = require('jsonwebtoken');
 
 const secret = 'a-secret-word';

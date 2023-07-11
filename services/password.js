@@ -1,3 +1,6 @@
+/*
+eslint linebreak-style: ["error", "windows"]
+*/
 const bcrypt = require('bcrypt');
 
 const saltRounds = 10;

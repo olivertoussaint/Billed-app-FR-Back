@@ -1,3 +1,6 @@
+/*
+eslint linebreak-style: ["error", "windows"]
+*/
 const { User } = require('../models');
 const { hash } = require('../services/password');
 
